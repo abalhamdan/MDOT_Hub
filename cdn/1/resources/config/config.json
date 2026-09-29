@@ -1,0 +1,270 @@
+{
+  "pages": {
+    "page_0": {
+      "id": "page_0",
+      "mode": "AUTO_SCROLL",
+      "type": "NORMAL",
+      "layout": {
+        "LARGE": "layout_0"
+      },
+      "isDefault": true,
+      "isVisible": true,
+      "label": "Home",
+      "header": true,
+      "footer": true
+    }
+  },
+  "layouts": {
+    "layout_0": {
+      "type": "FLOW",
+      "content": {
+        "1": {
+          "type": "WIDGET",
+          "widgetId": "widget_3",
+          "bbox": {
+            "left": "97px",
+            "right": "897px",
+            "top": "385px",
+            "bottom": "785px",
+            "width": "800px",
+            "height": 420
+          },
+          "setting": {
+            "heightMode": "auto"
+          }
+        }
+      },
+      "order": [
+        "1"
+      ]
+    },
+    "layout_3": {
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "widgetId": "widget_4",
+          "setting": {
+            "heightMode": "fit",
+            "autoProps": {
+              "height": "AUTO"
+            }
+          },
+          "bbox": {
+            "left": 0,
+            "width": 12,
+            "height": "400px"
+          }
+        }
+      },
+      "type": "ROW",
+      "label": "Default",
+      "order": [
+        "0"
+      ]
+    },
+    "layout_4": {
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "widgetId": "widget_6",
+          "setting": {
+            "autoProps": {
+              "height": "AUTO"
+            }
+          },
+          "bbox": {
+            "left": 0,
+            "width": 12,
+            "height": "378px"
+          }
+        }
+      },
+      "type": "ROW",
+      "label": "Default",
+      "order": [
+        "0"
+      ]
+    },
+    "layout_6": {
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "widgetId": "widget_9",
+          "bbox": {
+            "left": "0.0%",
+            "right": "0.0%",
+            "top": "1.5%",
+            "bottom": "0.0%",
+            "width": "100.0%",
+            "height": "98.1190%"
+          },
+          "setting": {
+            "autoProps": {
+              "left": true,
+              "right": false,
+              "top": true,
+              "bottom": false,
+              "height": "CUSTOM"
+            }
+          }
+        }
+      },
+      "type": "FIXED",
+      "setting": {
+        "lockDescendants": true
+      },
+      "order": [
+        "0"
+      ]
+    },
+    "layout_7": {
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "widgetId": "widget_10",
+          "bbox": {
+            "left": "0.0%",
+            "right": "0.0%",
+            "top": "1.5%",
+            "bottom": "-0.0%",
+            "width": "100.0%",
+            "height": "98.5%"
+          },
+          "setting": {
+            "autoProps": {
+              "left": true,
+              "right": false,
+              "top": true,
+              "bottom": false,
+              "height": "AUTO"
+            }
+          }
+        }
+      },
+      "type": "FIXED",
+      "setting": {
+        "lockDescendants": true
+      },
+      "order": [
+        "0"
+      ]
+    }
+  },
+  "exbVersion": "1.20.0",
+  "mainSizeMode": "LARGE",
+  "theme": "themes/master/",
+  "forBuilderAttributes": {
+    "lockLayout": false,
+    "viewPortSize": {
+      "MEDIUM": {
+        "width": 768,
+        "height": 1024
+      }
+    }
+  },
+  "template": "blankscrollable",
+  "widgets": {
+    "widget_3": {
+      "uri": "widgets/layout/row/",
+      "version": "1.20.0",
+      "label": "Block 2",
+      "config": {
+        "space": 10,
+        "style": {
+          "padding": {
+            "number": [
+              10
+            ],
+            "unit": "px"
+          }
+        }
+      },
+      "id": "widget_3",
+      "layouts": {
+        "DEFAULT": {
+          "LARGE": "layout_3"
+        }
+      }
+    },
+    "widget_4": {
+      "uri": "widgets/layout/row/",
+      "version": "1.20.0",
+      "label": "Row 2",
+      "config": {
+        "space": 10,
+        "style": {
+          "padding": {
+            "number": [
+              10
+            ],
+            "unit": "px"
+          }
+        }
+      },
+      "id": "widget_4",
+      "layouts": {
+        "DEFAULT": {
+          "LARGE": "layout_4"
+        }
+      }
+    },
+    "widget_6": {
+      "uri": "widgets/mdot-hub-tools/",
+      "version": "1.0.0",
+      "label": "MDOT Hub Tools",
+      "config": null,
+      "id": "widget_6"
+    },
+    "widget_9": {
+      "uri": "widgets/mdot-hub-hero/",
+      "version": "1.0.0",
+      "label": "MDOT Hub Hero",
+      "config": null,
+      "id": "widget_9"
+    },
+    "widget_10": {
+      "uri": "widgets/mdot-footer/",
+      "version": "1.0.0",
+      "label": "MDOT Footer",
+      "config": null,
+      "id": "widget_10"
+    }
+  },
+  "widgetsManifest": {},
+  "views": {},
+  "sections": {},
+  "dialogs": {},
+  "messageConfigs": {},
+  "attributes": {
+    "portalUrl": "https://SPP.maps.arcgis.com"
+  },
+  "timestamp": 1790658458226,
+  "sharedThemeVariables": null,
+  "mainLocale": "en",
+  "dataSources": {},
+  "pageStructure": [
+    {
+      "page_0": []
+    }
+  ],
+  "header": {
+    "layout": {
+      "LARGE": "layout_6"
+    },
+    "height": {
+      "LARGE": 385,
+      "MEDIUM": "340px",
+      "SMALL": "415px"
+    }
+  },
+  "footer": {
+    "layout": {
+      "LARGE": "layout_7"
+    },
+    "height": {
+      "LARGE": 465,
+      "MEDIUM": "900px",
+      "SMALL": "1350px"
+    }
+  }
+}

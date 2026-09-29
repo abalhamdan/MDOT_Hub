@@ -1,0 +1,17 @@
+{
+  "name": "mdot-hub-hero",
+  "type": "widget",
+  "version": "1.0.0",
+  "exbVersion": "1.20.0",
+  "author": "MDOT CTP",
+  "description": "Hub landing hero: maroon gradient banner with serif headline, program descriptor, and key statistics strip. Place at the top of the Capital Budget Hub page.",
+  "label": "MDOT Hub Hero",
+  "defaultSize": {
+    "width": 1200,
+    "height": 400
+  },
+  "properties": {
+    "hasConfig": false,
+    "hasSettingPage": false
+  }
+}
