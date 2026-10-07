@@ -12731,7 +12731,7 @@
       "label": "MDOT Map (no full-screen button)",
       "defaultSize": {
         "width": 1280,
-        "height": 720
+        "height": 936
       },
       "properties": {
         "useDataSourcesEnabled": false,
@@ -12815,6 +12815,78 @@
     },
     "uri": "widgets/mdot-nav/",
     "icon": "widgets/mdot-nav/icon.svg",
+    "order": 700,
+    "group": 7
+  },
+  {
+    "name": "mdot-priority-letter-form",
+    "manifest": {
+      "name": "mdot-priority-letter-form",
+      "type": "widget",
+      "version": "1.0.0",
+      "exbVersion": "1.20.0",
+      "author": "MDOT",
+      "description": "Priority Letter submission form with role-based auth (Submitter / Reviewer / Admin), multi-project entry, auto-save, and ArcGIS Feature Service submission.",
+      "label": "MDOT Priority Letter Form",
+      "defaultSize": {
+        "width": 1280,
+        "height": 1000
+      },
+      "properties": {
+        "hasConfig": false,
+        "hasSettingPage": false
+      }
+    },
+    "uri": "widgets/mdot-priority-letter-form/",
+    "icon": "widgets/mdot-priority-letter-form/icon.png",
+    "order": 700,
+    "group": 7
+  },
+  {
+    "name": "mdot-priority-letter-guidance",
+    "manifest": {
+      "name": "mdot-priority-letter-guidance",
+      "type": "widget",
+      "version": "1.0.0",
+      "exbVersion": "1.20.0",
+      "author": "MDOT",
+      "description": "Priority Letter Portal — landing page with guidance, process steps, and CTA to the submission form.",
+      "label": "MDOT Priority Letter Guidance",
+      "defaultSize": {
+        "width": 1280,
+        "height": 900
+      },
+      "properties": {
+        "hasConfig": false,
+        "hasSettingPage": false
+      }
+    },
+    "uri": "widgets/mdot-priority-letter-guidance/",
+    "icon": "widgets/mdot-priority-letter-guidance/icon.png",
+    "order": 700,
+    "group": 7
+  },
+  {
+    "name": "mdot-priority-letter-header",
+    "manifest": {
+      "name": "mdot-priority-letter-header",
+      "type": "widget",
+      "version": "1.0.0",
+      "exbVersion": "1.20.0",
+      "author": "MDOT",
+      "description": "Site header for the Priority Letter Portal — same four-row layout as mdot-header but branded for the portal.",
+      "label": "MDOT Priority Letter Header",
+      "defaultSize": {
+        "width": 1280,
+        "height": 140
+      },
+      "properties": {
+        "hasConfig": false,
+        "hasSettingPage": false
+      }
+    },
+    "uri": "widgets/mdot-priority-letter-header/",
+    "icon": "widgets/mdot-priority-letter-header/icon.png",
     "order": 700,
     "group": 7
   },
@@ -13343,6 +13415,30 @@
     },
     "uri": "widgets/project-page-stats/",
     "icon": "widgets/project-page-stats/icon.png",
+    "order": 700,
+    "group": 7
+  },
+  {
+    "name": "psp-page-docs",
+    "manifest": {
+      "name": "psp-page-docs",
+      "type": "widget",
+      "version": "1.0.0",
+      "exbVersion": "1.20.0",
+      "author": "MDOT CTP",
+      "description": "Prioritization Studies Program — document library page. Hero banner + filterable document list matching the MDOT Capital Budget Site PSP view.",
+      "label": "PSP Page Docs",
+      "defaultSize": {
+        "width": 1200,
+        "height": 900
+      },
+      "properties": {
+        "hasConfig": false,
+        "hasSettingPage": false
+      }
+    },
+    "uri": "widgets/psp-page-docs/",
+    "icon": "widgets/psp-page-docs/icon.png",
     "order": 700,
     "group": 7
   },
