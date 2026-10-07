@@ -46,7 +46,7 @@
           "setting": {
             "heightMode": "fit",
             "autoProps": {
-              "height": "AUTO"
+              "height": "STRETCH"
             }
           },
           "bbox": {
@@ -69,7 +69,7 @@
           "widgetId": "widget_6",
           "setting": {
             "autoProps": {
-              "height": "AUTO"
+              "height": "STRETCH"
             }
           },
           "bbox": {
@@ -238,7 +238,7 @@
   "attributes": {
     "portalUrl": "https://SPP.maps.arcgis.com"
   },
-  "timestamp": 1791347528461,
+  "timestamp": 1791378665578,
   "sharedThemeVariables": null,
   "mainLocale": "en",
   "dataSources": {},
@@ -263,8 +263,8 @@
     },
     "height": {
       "LARGE": 465,
-      "MEDIUM": "900px",
-      "SMALL": "1350px"
+      "MEDIUM": "850px",
+      "SMALL": "1360px"
     }
   }
 }

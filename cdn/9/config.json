@@ -46,7 +46,7 @@
           "setting": {
             "heightMode": "fit",
             "autoProps": {
-              "height": "AUTO"
+              "height": "STRETCH"
             }
           },
           "bbox": {
@@ -69,7 +69,7 @@
           "widgetId": "widget_6",
           "setting": {
             "autoProps": {
-              "height": "AUTO"
+              "height": "STRETCH"
             }
           },
           "bbox": {
@@ -245,7 +245,7 @@
     "type": "Web Experience",
     "thumbnail": null
   },
-  "timestamp": 1791347528461,
+  "timestamp": 1791374611137,
   "sharedThemeVariables": null,
   "mainLocale": "en",
   "dataSources": {},
@@ -270,8 +270,8 @@
     },
     "height": {
       "LARGE": 465,
-      "MEDIUM": "900px",
-      "SMALL": "1350px"
+      "MEDIUM": "850px",
+      "SMALL": "1360px"
     }
   },
   "historyLabels": {
@@ -281,5 +281,5 @@
       ]
     }
   },
-  "publishTimestamp": 1791347529163
+  "publishTimestamp": 1791374613662
 }
