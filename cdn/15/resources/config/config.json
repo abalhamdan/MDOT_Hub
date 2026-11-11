@@ -236,16 +236,9 @@
   "dialogs": {},
   "messageConfigs": {},
   "attributes": {
-    "portalUrl": "https://SPP.maps.arcgis.com",
-    "isWebTier": false,
-    "clientId": "",
-    "express": false,
-    "title": "MDOT Planning and Programming Hub",
-    "description": "",
-    "type": "Web Experience",
-    "thumbnail": null
+    "portalUrl": "https://SPP.maps.arcgis.com"
   },
-  "timestamp": 1794416472255,
+  "timestamp": 1794417681719,
   "sharedThemeVariables": null,
   "mainLocale": "en",
   "dataSources": {},
@@ -276,14 +269,5 @@
   },
   "permission": {
     "restrictions": []
-  },
-  "historyLabels": {
-    "pages": {
-      "page_0": [
-        "Page",
-        "Home"
-      ]
-    }
-  },
-  "publishTimestamp": 1794416474007
+  }
 }
