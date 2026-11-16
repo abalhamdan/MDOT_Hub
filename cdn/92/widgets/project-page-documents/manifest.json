@@ -1,0 +1,17 @@
+{
+  "name": "project-page-documents",
+  "type": "widget",
+  "version": "1.0.0",
+  "exbVersion": "1.20.0",
+  "author": "MDOT CTP starter",
+  "description": "Project detail page — Maroon Download & Explore card with three actions: FY Project Description Form (PDF), Archives, Data. URLs come from the table fields when present.",
+  "label": "Project_Page_Downloads",
+  "defaultSize": {
+    "width": 900,
+    "height": 180
+  },
+  "properties": {
+    "hasConfig": false,
+    "hasSettingPage": false
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "project-page-stats",
+  "type": "widget",
+  "version": "1.0.0",
+  "exbVersion": "1.20.0",
+  "author": "MDOT CTP starter",
+  "description": "Project detail page — maroon Budget Snapshot card with two gold figures: Total Expenditures/Funding and 6 Year Total Expenditures/Funding. Reads ?pif= from URL.",
+  "label": "Project_Page_Budget_Snapshot",
+  "defaultSize": {
+    "width": 900,
+    "height": 200
+  },
+  "properties": {
+    "hasConfig": false,
+    "hasSettingPage": false
+  }
+}

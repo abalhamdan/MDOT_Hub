@@ -1,0 +1,17 @@
+{
+  "name": "mdot-capital-budget-overview",
+  "type": "widget",
+  "version": "1.0.0",
+  "exbVersion": "1.20.0",
+  "author": "MDOT CTP starter",
+  "description": "Capital Budget Overview — one merged panel that replaces the separate Categories list, Funding by Category donut, and Funding by Agency donut. Header shows the six-year total; body pairs a category description column with a tabbed donut (Category / Agency). Live-wired to MDOT_CTP_Site. Kill the white space the three-widget layout left behind.",
+  "label": "MDOT Capital Budget Overview",
+  "defaultSize": {
+    "width": 1200,
+    "height": 620
+  },
+  "properties": {
+    "hasConfig": false,
+    "hasSettingPage": false
+  }
+}

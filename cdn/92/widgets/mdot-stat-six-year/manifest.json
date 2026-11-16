@@ -1,0 +1,17 @@
+{
+  "name": "mdot-stat-six-year",
+  "type": "widget",
+  "version": "1.0.0",
+  "exbVersion": "1.20.0",
+  "author": "MDOT CTP starter",
+  "description": "Stat card 1 — Six-Year Program total.",
+  "label": "MDOT Stat · Six-Year Program",
+  "defaultSize": {
+    "width": 260,
+    "height": 150
+  },
+  "properties": {
+    "hasConfig": false,
+    "hasSettingPage": false
+  }
+}

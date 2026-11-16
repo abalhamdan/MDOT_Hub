@@ -1,0 +1,17 @@
+{
+  "name": "county-page-download-explore",
+  "type": "widget",
+  "version": "1.0.0",
+  "exbVersion": "1.20.0",
+  "author": "MDOT CTP starter",
+  "description": "County-page Download & Explore card. UI scaffold for downloads/data exports — unlinked placeholder for now. Subtitle reflects the active ?county selection.",
+  "label": "County_Page_Download_Explore",
+  "defaultSize": {
+    "width": 900,
+    "height": 130
+  },
+  "properties": {
+    "hasConfig": false,
+    "hasSettingPage": false
+  }
+}

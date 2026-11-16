@@ -1,0 +1,17 @@
+{
+  "name": "agency-page-funding-pie",
+  "type": "widget",
+  "version": "1.0.0",
+  "exbVersion": "1.20.0",
+  "author": "MDOT CTP starter",
+  "description": "Agency-page pie chart: % Total Funding by Source for the selected agency. Groups Funding rows by funding_source_id, labels from FundingSource.source_type, sums amount_000s. Hover tooltip shows total in millions ($X.XX M).",
+  "label": "Agency_Page_Funding_Pie",
+  "defaultSize": {
+    "width": 600,
+    "height": 520
+  },
+  "properties": {
+    "hasConfig": false,
+    "hasSettingPage": false
+  }
+}

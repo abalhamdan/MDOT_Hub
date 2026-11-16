@@ -1,0 +1,17 @@
+{
+  "name": "county-page-budget-snapshot",
+  "type": "widget",
+  "version": "1.0.0",
+  "exbVersion": "1.20.0",
+  "author": "MDOT CTP starter",
+  "description": "County-page budget snapshot card. Shows distinct project count (PIFs) and total expenditures/funding for the selected county. Total auto-scales to millions or billions. Reads ?county= from URL.",
+  "label": "County_Page_Budget_Snapshot",
+  "defaultSize": {
+    "width": 900,
+    "height": 160
+  },
+  "properties": {
+    "hasConfig": false,
+    "hasSettingPage": false
+  }
+}

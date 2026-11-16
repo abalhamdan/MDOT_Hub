@@ -1,0 +1,17 @@
+{
+  "name": "project-page-map",
+  "type": "widget",
+  "version": "1.0.0",
+  "exbVersion": "1.20.0",
+  "author": "MDOT CTP starter",
+  "description": "Project detail page — small map zoomed to the selected project's geometry. Reads ?pif= from URL.",
+  "label": "Project_Page_Map",
+  "defaultSize": {
+    "width": 560,
+    "height": 360
+  },
+  "properties": {
+    "hasConfig": false,
+    "hasSettingPage": false
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "mdot-six-year-plan",
+  "type": "widget",
+  "version": "1.0.0",
+  "exbVersion": "1.20.0",
+  "author": "MDOT CTP starter",
+  "description": "Six-year FY breakdown column (FY 2026 – FY 2031) showing per-year totals. Aggregates from the projects table.",
+  "label": "MDOT Six-Year Plan",
+  "defaultSize": {
+    "width": 380,
+    "height": 520
+  },
+  "properties": {
+    "hasConfig": false,
+    "hasSettingPage": false
+  }
+}

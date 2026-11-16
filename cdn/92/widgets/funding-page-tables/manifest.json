@@ -1,0 +1,17 @@
+{
+  "name": "funding-page-tables",
+  "type": "widget",
+  "version": "1.0.0",
+  "exbVersion": "1.20.0",
+  "author": "MDOT CTP starter",
+  "description": "Funding page — multi-view data tables (Total CTP Funding, by FY, by Source, by Agency, by Category, Expenditures by FY / Agency / Cost Element). MDOT-branded, ADA compliant, mirrors the References guide layout.",
+  "label": "Funding Page Tables",
+  "defaultSize": {
+    "width": 1200,
+    "height": 720
+  },
+  "properties": {
+    "hasConfig": false,
+    "hasSettingPage": false
+  }
+}

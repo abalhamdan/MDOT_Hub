@@ -1,0 +1,17 @@
+{
+  "name": "project-page-expenditures-chart",
+  "type": "widget",
+  "version": "1.0.0",
+  "exbVersion": "1.20.0",
+  "author": "MDOT CTP starter",
+  "description": "Project detail page — Total Expenditures by Cost Element interactive bar chart. Auto-discovers cost element fields, supports any number of categories, hover fades other bars.",
+  "label": "Project_Page_Expenditures_Chart",
+  "defaultSize": {
+    "width": 800,
+    "height": 520
+  },
+  "properties": {
+    "hasConfig": false,
+    "hasSettingPage": false
+  }
+}

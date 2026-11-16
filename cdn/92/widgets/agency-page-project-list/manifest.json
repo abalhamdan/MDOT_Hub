@@ -1,0 +1,17 @@
+{
+  "name": "agency-page-project-list",
+  "type": "widget",
+  "version": "1.0.0",
+  "exbVersion": "1.20.0",
+  "author": "MDOT CTP starter",
+  "description": "Agency-page sortable project list. Shows project names (PIF_Name) filtered by the selected Agency_code. Records-per-page + keyword search + sortable header. Click a row → Project Level Information page seeded with ?pif=.",
+  "label": "Agency_Page_Project_List",
+  "defaultSize": {
+    "width": 600,
+    "height": 620
+  },
+  "properties": {
+    "hasConfig": false,
+    "hasSettingPage": false
+  }
+}

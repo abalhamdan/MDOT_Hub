@@ -1,0 +1,17 @@
+{
+  "name": "county-page-project-list",
+  "type": "widget",
+  "version": "1.0.0",
+  "exbVersion": "1.20.0",
+  "author": "MDOT CTP starter",
+  "description": "County-page sortable project list. Shows project names only (PIF_Name) filtered by the selected county. Records-per-page + keyword search + sortable header. Click a row → Project Level Information page seeded with ?pif=.",
+  "label": "County_Page_Project_List",
+  "defaultSize": {
+    "width": 600,
+    "height": 620
+  },
+  "properties": {
+    "hasConfig": false,
+    "hasSettingPage": false
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "references-page-guide",
+  "type": "widget",
+  "version": "1.0.0",
+  "exbVersion": "1.20.0",
+  "author": "MDOT CTP starter",
+  "description": "References page — multi-view user guide (Navigating the CTP, Using the map, Project lists and filters, Charts and graphs, Glossary, Common Questions). MDOT-branded, ADA compliant.",
+  "label": "References Page Guide",
+  "defaultSize": {
+    "width": 1200,
+    "height": 720
+  },
+  "properties": {
+    "hasConfig": false,
+    "hasSettingPage": false
+  }
+}

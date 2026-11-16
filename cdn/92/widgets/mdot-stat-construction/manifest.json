@@ -1,0 +1,17 @@
+{
+  "name": "mdot-stat-construction",
+  "type": "widget",
+  "version": "1.0.0",
+  "exbVersion": "1.20.0",
+  "author": "MDOT CTP starter",
+  "description": "Stat card 4 — Projects In Construction.",
+  "label": "MDOT Stat · In Construction",
+  "defaultSize": {
+    "width": 260,
+    "height": 150
+  },
+  "properties": {
+    "hasConfig": false,
+    "hasSettingPage": false
+  }
+}

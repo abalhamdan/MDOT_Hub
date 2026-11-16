@@ -1,0 +1,17 @@
+{
+  "name": "mdot-stat-fy-spend",
+  "type": "widget",
+  "version": "1.0.0",
+  "exbVersion": "1.20.0",
+  "author": "MDOT CTP starter",
+  "description": "Stat card 3 — FY 2026 Capital Spend.",
+  "label": "MDOT Stat · FY 2026 Capital Spend",
+  "defaultSize": {
+    "width": 260,
+    "height": 150
+  },
+  "properties": {
+    "hasConfig": false,
+    "hasSettingPage": false
+  }
+}

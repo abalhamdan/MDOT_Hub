@@ -1,0 +1,17 @@
+{
+  "name": "agency-page-cost-element",
+  "type": "widget",
+  "version": "1.0.0",
+  "exbVersion": "1.20.0",
+  "author": "MDOT CTP starter",
+  "description": "Agency-page Total Expenditures by Cost Element. Bar chart UI only — bar values are placeholder until the Expenditures table is wired. Subtitle reflects the active ?agency selection.",
+  "label": "Agency_Page_Cost_Element",
+  "defaultSize": {
+    "width": 700,
+    "height": 480
+  },
+  "properties": {
+    "hasConfig": false,
+    "hasSettingPage": false
+  }
+}

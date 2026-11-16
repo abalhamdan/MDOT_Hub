@@ -1,0 +1,17 @@
+{
+  "name": "mdot-projects-table-full",
+  "type": "widget",
+  "version": "1.0.0",
+  "exbVersion": "1.20.0",
+  "author": "MDOT CTP starter",
+  "description": "Same design as MDOT Projects Table but shows the full project list (all 706 rows) in a scrollable container instead of paging 8 at a time. Use on the dedicated Projects page.",
+  "label": "MDOT Projects Table (Full)",
+  "defaultSize": {
+    "width": 1280,
+    "height": 820
+  },
+  "properties": {
+    "hasConfig": false,
+    "hasSettingPage": false
+  }
+}

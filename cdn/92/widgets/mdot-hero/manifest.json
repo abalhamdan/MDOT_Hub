@@ -1,0 +1,17 @@
+{
+  "name": "mdot-hero",
+  "type": "widget",
+  "version": "1.0.0",
+  "exbVersion": "1.20.0",
+  "author": "MDOT CTP starter",
+  "description": "Hero left column: program eyebrow, serif headline with maroon mode emphasis, body copy, and primary CTAs. Designed to sit beside the map widget.",
+  "label": "MDOT Hero",
+  "defaultSize": {
+    "width": 560,
+    "height": 360
+  },
+  "properties": {
+    "hasConfig": false,
+    "hasSettingPage": false
+  }
+}

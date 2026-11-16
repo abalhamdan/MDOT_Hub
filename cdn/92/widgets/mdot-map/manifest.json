@@ -1,0 +1,20 @@
+{
+  "name": "mdot-map",
+  "type": "widget",
+  "version": "1.0.0",
+  "exbVersion": "1.20.0",
+  "author": "MDOT CTP starter",
+  "description": "Self-contained map widget that loads the CTP webmap and replaces the default Esri popup with a custom maroon/gold project card anchored to the clicked feature.",
+  "label": "MDOT Map",
+  "defaultSize": {
+    "width": 720,
+    "height": 480
+  },
+  "properties": {
+    "useDataSourcesEnabled": false,
+    "useMapWidgetIds": false,
+    "hasConfig": false,
+    "hasSettingPage": false
+  },
+  "dependency": "jimu-arcgis"
+}

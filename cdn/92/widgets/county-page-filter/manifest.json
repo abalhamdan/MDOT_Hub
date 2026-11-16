@@ -1,0 +1,17 @@
+{
+  "name": "county-page-filter",
+  "type": "widget",
+  "version": "1.0.0",
+  "exbVersion": "1.20.0",
+  "author": "MDOT CTP starter",
+  "description": "County-page selector bar. County dropdown (Statewide + every county from the County table) + Budget Year / Version dropdown. Writes ?county=<name> and ?fy=<version> to the URL so every other county-page widget re-renders.",
+  "label": "County_Page_Filter",
+  "defaultSize": {
+    "width": 1200,
+    "height": 90
+  },
+  "properties": {
+    "hasConfig": false,
+    "hasSettingPage": false
+  }
+}

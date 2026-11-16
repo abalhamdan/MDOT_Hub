@@ -1,0 +1,17 @@
+{
+  "name": "agency-page-map",
+  "type": "widget",
+  "version": "1.0.0",
+  "exbVersion": "1.20.0",
+  "author": "MDOT CTP starter",
+  "description": "Agency-page map. ProjectCoordinates layer auto-filtered by ?agency via the denormalized Agency field, with the MDOT custom popup. Zooms to the filtered set on every agency change.",
+  "label": "Agency_Page_Map",
+  "defaultSize": {
+    "width": 720,
+    "height": 520
+  },
+  "properties": {
+    "hasConfig": false,
+    "hasSettingPage": false
+  }
+}
