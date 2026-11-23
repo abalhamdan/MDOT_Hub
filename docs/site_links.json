@@ -1,7 +1,7 @@
 {
- "generated": "2026-11-17 08:06",
+ "generated": "2026-11-23 11:24",
  "source": "ctp-data/SOT_Link_Inventory.xlsx",
- "count": 671,
+ "count": 673,
  "links": {
   "all.homepage.prioritization-ecosystem-project-priorit.project-prioritization-tool": "https://experience.arcgis.com/experience/7cf35358e6a741febe2bef859f2bf0be/page/Page?views=All",
   "all.homepage.footer-mdot-agencies.state-highway-administration": "https://roads.maryland.gov/pages/home.aspx",
@@ -10,6 +10,8 @@
   "all.homepage.footer-mdot-agencies.maryland-port-administration": "https://mpa.maryland.gov/Pages/default.aspx",
   "all.homepage.footer-mdot-agencies.motor-vehicle-administration": "https://mva.maryland.gov/",
   "all.homepage.footer-mdot-agencies.the-secretarys-office": "https://www.mdot.maryland.gov/tso/pages/Index.aspx?PageId=64",
+  "all.homepage.footer-mdot-agencies.maryland-transportation-authority": "https://mdta.maryland.gov/",
+  "all.homepage.footer-mdot-agencies.washington-metropolitan-area-transit-authority": "https://www.wmata.com/",
   "all.homepage.footer-your-government.governor-wes-moore": "https://governor.maryland.gov/Pages/home.aspx",
   "all.homepage.footer-your-government.maryland-cabinet-agencies": "https://governor.maryland.gov/leadership/cabinet/Pages/default.aspx",
   "all.homepage.footer-your-government.all-state-agencies": "https://www.maryland.gov/your-government/state-agencies-and-departments",
